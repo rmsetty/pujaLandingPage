@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pujaLandingPage/static/css/main.f855e6bc.css",
+    "main.js": "/pujaLandingPage/static/js/main.c327541c.js",
+    "static/js/453.2b9430d9.chunk.js": "/pujaLandingPage/static/js/453.2b9430d9.chunk.js",
+    "static/media/image 3.png": "/pujaLandingPage/static/media/image 3.cf39be6f152e07076af4.png",
+    "static/media/image 1.png": "/pujaLandingPage/static/media/image 1.74e91c38a2abb36f569a.png",
+    "static/media/landingPageEx.png": "/pujaLandingPage/static/media/landingPageEx.c986520dca6f7e55bc1b.png",
+    "static/media/candle.png": "/pujaLandingPage/static/media/candle.5a62b59c7c1ad1a928eb.png",
+    "static/media/Image 2.jpeg": "/pujaLandingPage/static/media/Image 2.7c563ea6e6b6363bdf2d.jpeg",
+    "static/media/orange_Corner.png": "/pujaLandingPage/static/media/orange_Corner.c9bea34078eb0a2c132e.png",
+    "static/media/yes.jpg": "/pujaLandingPage/static/media/yes.8dbaacda3913cd1c0c57.jpg",
+    "index.html": "/pujaLandingPage/index.html",
+    "main.f855e6bc.css.map": "/pujaLandingPage/static/css/main.f855e6bc.css.map",
+    "main.c327541c.js.map": "/pujaLandingPage/static/js/main.c327541c.js.map",
+    "453.2b9430d9.chunk.js.map": "/pujaLandingPage/static/js/453.2b9430d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c327541c.js"
+  ]
+}
